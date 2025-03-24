@@ -1,0 +1,25 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+body{
+   background-color: black;
+   color: white;
+}
+h1{
+    text-align: center;
+}
+body img{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    align-items: end;
+    justify-content: right;
+    margin-left: 60%;
+
+}
+body p{
+    text-align: center;
+    color: white;
+    background-color: maroon;
+}
