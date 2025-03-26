@@ -1,0 +1,26 @@
+{
+    "members":[
+        {
+            "id": 1,
+            "name": "Jesse",
+            "email":"yegonjesse2@gmail.com",
+            "location":"Rongai",
+            "message": true
+        },
+        {
+            "id": 2,
+            "name": "Joy",
+            "email":"tonuijoy2@gmail.com",
+            "location":"Makueni",
+            "message": true
+        },
+        {
+            "id": 1,
+            "name": "Kimani",
+            "email":"kimani2@gmail.com",
+            "location":"Kiambu",
+            "message": false
+        }
+        
+    ]
+}
