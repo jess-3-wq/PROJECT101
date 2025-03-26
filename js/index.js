@@ -65,8 +65,7 @@ document.addEventListener("DOMContentLoaded", () => {
         .then(() => {
             document.querySelector(`#contact-${id}`).innerHTML = `
                 ${newName} (${newEmail}) 
-                <button onclick="editContact(${id}, '${newName}', '${newEmail}', '${newLocation}', '${newMessage}')">Edit</button>
-                <button onclick="deleteUser(${id})">Delete</button>
+              
             `;
         })
         .catch(error => console.log(error));
